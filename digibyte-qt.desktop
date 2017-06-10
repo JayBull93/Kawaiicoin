@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kawaiicoin Core
+Comment=Connect to the Kawaiicoin P2P Network
+Comment[de]=Verbinde mit dem Kawaiicoin peer-to-peer Netzwerk
+Comment[fr]=Kawaiicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Kawaiicoin, eşten eşe kriptografik sanal para birimi
+Exec=Kawaiicoin-qt %u
+Terminal=false
+Type=Application
+Icon=Kawaiicoin128
+MimeType=x-scheme-handler/Kawaiicoin;
+Categories=Office;Finance;

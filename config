@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[Kawaiicoin.qt-translation-014x]
+file_filter = src/qt/locale/Kawaiicoin_<lang>.ts
+source_file = src/qt/locale/Kawaiicoin_en.ts
+source_lang = en

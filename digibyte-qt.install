@@ -1,0 +1,6 @@
+usr/local/bin/Kawaiicoin-qt usr/bin
+share/pixmaps/Kawaiicoin32.xpm usr/share/pixmaps
+share/pixmaps/Kawaiicoin16.xpm usr/share/pixmaps
+share/pixmaps/Kawaiicoin128.png usr/share/pixmaps
+debian/Kawaiicoin-qt.desktop usr/share/applications
+debian/Kawaiicoin-qt.protocol usr/share/kde4/services/
